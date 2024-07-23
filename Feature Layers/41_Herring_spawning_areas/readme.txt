@@ -1,0 +1,1 @@
+‘Spawning beds’ refers to known discrete gravel beds used by herring. Spatial information for herring spawning beds was taken directly from O’Sullivan et al. (2013), who collated information from both the fishing industry and seabed surveys (INFOMAR). No buffer was applied and beds were not grouped into spawning grounds or areas.

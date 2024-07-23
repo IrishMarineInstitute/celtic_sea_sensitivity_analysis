@@ -1,0 +1,1 @@
+unaltered and unmodified layers from the MSFD benthic habitats datasets from GSI / INFOMAR (see case reports Appendix 10) were used (represented in Figure 2.2.1 in the main report).

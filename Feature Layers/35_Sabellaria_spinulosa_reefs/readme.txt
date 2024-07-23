@@ -1,0 +1,1 @@
+All available layers were summed and then converted to a binary (presence/absence) raster. Layers included were JNCC Marine Recorder records, Marine Institute benthic survey records and OBIS records.

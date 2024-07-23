@@ -1,0 +1,54 @@
+"weight" "filename"
+4	Blondekrigged_pa.tif
+4	BullHusskrigged_pa.tif
+8	Circalittoral_coarse_sediment_1km.tif
+8	Circalittoral_mud_1km.tif
+8	Circalittoral_rock_and_biogenic_reef_1km.tif
+8	Circalittoral_sand_1km.tif
+2	cshas_forage_fish_4_and_up.tif
+8	IfI_Anguilla_anguilla_estuaries_rivermouths_pa_500m.tif
+8	Infralittoral_coarse_sediment_1km.tif
+8	Infralittoral_mud_1km.tif
+8	Infralittoral_rock_and_biogenic_reef_1km.tif
+2	Infralittoral_sand_1km.tif
+2	juvenile_blue_skate.tif
+8	kelp_pa_1km.tif
+8	mature_female_flappers.tif
+8	MI_Herring_Spawning_Beds_percent_cover.tif
+2	observe_density_2021_2022_1km.tif
+2	OBSERVE_predicted_cetorhinus_maximus.tif
+2	Offshore_circalittoral_coarse_sediment_1km.tif
+8	Offshore_circalittoral_mixed_sediment_1km.tif
+8	Offshore_circalittoral_mud_1km.tif
+8	Offshore_circalittoral_rock_and_biogenic_reef_1km.tif
+8	Offshore_circalittoral_sand_1km.tif
+4	RJF_occProb_Shagreen_ray.tif
+8	sabellaria_layer_binary_1km.tif
+8	Salmon_Estuaries_Rivermouths_pa_500m.tif
+8	sandeels_logged_buffered_1km.tif
+8	seapen_layer_binary_1km.tif
+2	Turbotkrigged_pa.tif
+8	UCD_OC_stock_kg_m2_upper10cm.tif
+8	UCD_Percentatge_OC_content_in_sediment.tif
+8	zostera_pa_1km.tif
+4	CelticSeaFront.tif
+4	coastal_front.tif
+
+
+
+
+
+
+
+
+
+
+
+                  
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+Cost layer used: 
+std_int_varORE_cost_1km

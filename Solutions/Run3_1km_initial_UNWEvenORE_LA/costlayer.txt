@@ -1,0 +1,2 @@
+Cost layer used: 
+unw_int_evenORE_cost_1km.tif

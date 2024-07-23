@@ -1,0 +1,2 @@
+Cost layer used: 
+value_varORE_cost_1km.tif

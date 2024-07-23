@@ -1,0 +1,1 @@
+All available layers were summed and then converted to a binary (presence/absence) raster. Layers included were from coastwatch, the Environmental Protection Agency, JNCC Marine recorders, Marine community types, National Biodiversity Data Centre and ODIMS and OSPAR
