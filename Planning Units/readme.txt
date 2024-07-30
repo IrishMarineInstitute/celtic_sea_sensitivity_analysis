@@ -1,0 +1,1 @@
+Planning_units_1km.tif is a geotiff of the Celtic Sea Area of Inteset split into 1km x 1km grid cells. 
